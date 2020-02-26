@@ -7,8 +7,8 @@
 * Open Close Principle
 		Software entities like classes, modules and functions should be open for extension but closed for modifications.
   
-* Dependency Inversion Principle
-		High-level modules should not depend on low-level modules. Both should depend on abstractions.
+* Dependency Inversion Principle:
+	* High-level modules should not depend on low-level modules. Both should depend on abstractions.
 		Abstractions should not depend on details. Details should depend on abstractions.
 		The Template Design Pattern is an example where the DIP principle is applied.
 
