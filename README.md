@@ -36,38 +36,49 @@
 	* Lazy instantiation using double locking mechanism.
 	* Abstract Factory and Factory Methods implemented as singletons.
 		
-* Factory
+* Factory  :factory function
 	* creates objects without exposing the instantiation logic to the client.
 	* refers to the newly created object through a common interface
+	* Class Registration - using reflection
 
 * Factory Method
-	* 
+	* Defines an interface for creating objects, but let subclasses to decide which class to instantiate
+	* Refers to the newly created object through a common interface
 	* 	
 	* 
 
 * Abstract Factory
-	* 
-	* 	
-	* 
+	* Abstract Factory offers the interface for creating a family of related objects, without explicitly specifying their classes.
+	* Phone Number Example	
+	* Pizza Factory Example
+	* Look & Feel Example - Windows Themes		
 
 * Builder
+	* Defines an instance for creating an object but letting subclasses decide which class to instantiate
+	* Refers to the newly created object through a common interface
+	* text converting application: convert a document from RTF format to ASCII format	
+	* Example 1 - Vehicle Manufacturer.
+	* Example 1 - Students Exams.
+	* Builder and Abstract Factory
+	* Common interface for products
 	* 
-	* 	
 	* 
 
 * Prototype
-	* 
+	* specifying the kind of objects to create using a prototypical instance
+	* creating new objects by copying this prototype
 	* 	
 	* 
 
 * Object Pool
-	* 
+	* reuse and share objects that are expensive to create.
 	* 	
 	* 
 
 ## Behavioral Patterns
 * Chain of Responsibility
-	* 
+	* It avoids attaching the sender of a request to its receiver, giving this way other objects the possibility of handling the request too.
+	* The objects become parts of a chain and the request is sent from one object to another across the chain until one of the objects will handle it.	
 	* 	
 	* 
 
