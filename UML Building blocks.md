@@ -53,6 +53,7 @@
 * Deployment diagram
 * Component diagram
 
+--------------------------------------------------------------------------
 
 ## UML - Modeling Types :  There are three important types of UML modeling.
 ### Structural Modeling :Structural modeling captures the static features of a system. They consist of the following −
@@ -71,6 +72,41 @@
 ### Architectural Modeling
 - Architectural model represents the overall framework of the system. It contains both structural and behavioral elements of the system. Architectural model can be defined as the blueprint of the entire system. 
 * Package diagram comes under architectural modeling.
+--------------------------------------------------------------------------
+## UML - Basic Notations :
+* Structural Things
+** Classes
+** Object
+** Interface
+** Collaboration
+** Use case
+** Active classes
+** Components
+** Nodes
+
+* Behavioral Things : interactions and state machines.
+** Interactions can be of two types −
+*** Sequential (Represented by sequence diagram)
+*** Collaborative (Represented by collaboration diagram)
+
+* Grouping Things
+** Package Notation
+===============================
+# UML - Standard Diagrams
+## Structural Diagrams
+* Class diagram
+* Object diagram
+* Component diagram
+* Deployment diagram
+
+## Behavioral Diagrams
+* Use case diagram
+* Sequence diagram
+* Collaboration diagram
+* Statechart diagram
+* Activity diagram
+
+
 
 ---------------------------
 ## [A Conceptual Model of the UML](http://umlguide2.uw.hu/ch02lev1sec2.html)
