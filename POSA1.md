@@ -12,8 +12,17 @@ http://www.dre.vanderbilt.edu/~schmidt/       VIMP
 
 ==========================================
 
+http://www.dre.vanderbilt.edu/
+
+http://www.dre.vanderbilt.edu/~schmidt/TAO.html
 
 
+Design Patterns in Java
+Douglas Schmidt
+Design Patterns
+Published by
+Addison-Wesley Professional 2013
+https://learning.oreilly.com/videos/design-patterns-in/9780133489989
 
 
 
